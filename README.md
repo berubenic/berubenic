@@ -1,5 +1,5 @@
 - :boom: Hi, I’m @berubenic
-- :speaker: I'm billingual, both :fr: French and :us: English
+- &#127464;&#127462; I'm billingual, both French and English 
 - 👀 I’m interested in starting a career in web development!
 - 🌱 I’m currently learning Ruby and Rails with [The Odin Project](https://www.theodinproject.com)
 - :star: I also have some experience with JS, CSS, Sass and HTML5.
