@@ -2,5 +2,5 @@
 - &#127464;&#127462; I'm billingual, both in French and English 
 - 👀 I’m interested in starting a career in web development!
 - 🌱 I’m currently learning Ruby and Rails with [The Odin Project](https://www.theodinproject.com)
-- :star: I also have some experience with SQL, JS, CSS, Sass and HTML5.
+- :star: I also have some experience with SQL, JS, CSS, and HTML5.
 - 📫 You can reach me by email with <a href="mailto:berubenic@gmail.com" target="_blank">Nicholas Bérubé</a>
