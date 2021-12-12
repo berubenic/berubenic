@@ -19,6 +19,8 @@
 
 [![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=berubenic)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berubenic)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Take a look at my <a href='https://nicholasberube.com'>website.</a></h3>
 
 <h3>You may reach me by email at <a href="mailto:berubenic@gmail.com" target="_blank">Nicholas Bérubé.</a> 📫 </h3>
