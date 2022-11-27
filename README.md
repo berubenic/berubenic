@@ -5,10 +5,11 @@
 
 
 
-<h2>Techologies</h2>
+<h2>Technologies</h2>
 <ul>
 <li><b>Ruby</b></li>
 <li><b>Ruby on Rails</b></li>
+  <li><b>PHP</b></li>
 <li><b>JavaScript</b></li>
   <li><b>SQL</b></li>
 <li><b>HTML5</b></li>
